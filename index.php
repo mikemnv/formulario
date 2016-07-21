@@ -21,7 +21,7 @@
 		</nav>
 		<div class="contain content">
 			<section>
-				<h2>¡HOLA!</h2>
+				<h3>¡HOLA!</h3>
 				<p>En pocos minutos pasaras a formar parte de nuestra comunidad</p>
 			</section>
 			<form class="form">
