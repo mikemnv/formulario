@@ -51,7 +51,7 @@
 				</div>
 				<div class="col all">
 					<input type="checkbox" name="">
-					<span>Lorem ipsum dolor si et amet</span>
+					<span>Lorem ipsum dolor si et</span>
 				</div>
 				<input type="submit" value="Siguiente" name="">
 			</form>
